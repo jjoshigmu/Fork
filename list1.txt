@@ -1,4 +1,6 @@
 Fruits: Apple, Avocado, Orange, Cucumber
-Veggies: Mushroom, Carrot, Onion
+Veggies: Mushroom, Carrot
+Spices: Garlic, Ginger, Onion
 Meat: Chicken, Goat
 Eggs: Chicken 
+Sanitation: Towels - fabric and paper
