@@ -1,0 +1,4 @@
+Fruits: Apple, Avocado, Orange, Cucumber
+Veggies: Mushroom, Carrot, Onion
+Meat: Chicken, Goat
+Eggs: Chicken 
